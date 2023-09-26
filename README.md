@@ -20,3 +20,6 @@ Edit this README file to include a brief biography of yourself. Your README shou
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+
+
+![Picture of myself with my boyfriend Vicente and my dog Bowser](IMG_6608.jpeg)
