@@ -31,6 +31,4 @@ Last but not least, here's a picture to illustrate some of my favorite things (M
 
 ## Reflection about the homework 
 
-* A summary and reflection of the Git/GitHub workflow you adopted for this homework, and of your experience with Markdown (e.g., provide a summary of the workflow you adopted, and add some comments about something new you learned, something that surprised you, etc.)
-
 I was already familiar with the GitHub process of cloning repositories, editing files and then adding, committing and pushing. All of this I learned it during the Programming BootCamp, so it was easy to do that and it was the first thing I did. However, I didn't know how to edit a Markdown file, so I had to look for documentation online and I was able to learn the basics such as inserting images, links, using bold text, etc. I was surprised on how useful online documentations can be when they're well designed, which is something that I really appreciate as a new student on the tech field. After learning about those basics, I applied the new knowledge into editing this file to complete the assignment. 
